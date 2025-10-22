@@ -51,10 +51,10 @@ const Home = () => {
           >
             <MapPin className="w-16 h-16 mx-auto mb-6 text-white" />
             <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
-              Travel Smart in Morocco
+              Travel Smart All Over the World
             </h1>
             <p className="text-xl md:text-2xl text-white/90 max-w-3xl mx-auto mb-12">
-              Real prices, local tips, and scam protection. Experience Morocco like locals do.
+              Real prices, local tips, and scam protection. Starting with Morocco.
             </p>
           </motion.div>
 
