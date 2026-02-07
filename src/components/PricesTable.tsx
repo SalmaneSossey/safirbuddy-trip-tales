@@ -55,7 +55,7 @@ export const PricesTable = ({ prices, limit }: PricesTableProps) => {
                 </div>
               </TableCell>
               <TableCell className="text-right font-semibold">
-                {price.price_mad}
+                {price.price_max ? `${price.price_mad}–${price.price_max}` : price.price_mad}
               </TableCell>
               <TableCell className="text-sm text-muted-foreground">
                 {price.source}
