@@ -61,7 +61,7 @@ export const cities: City[] = [
     tagline: "Morocco's Economic Hub",
     description: "Discover Morocco's largest city, where modernity meets tradition. Visit the stunning Hassan II Mosque, stroll along the Corniche, and experience cosmopolitan Moroccan life.",
     color: "hsl(210, 14%, 89%)",
-    image: "https://images.unsplash.com/photo-1585393948915-f4c1fa2c8f18?auto=format&fit=crop&w=1200&q=80",
+    image: "https://images.unsplash.com/photo-1569383746724-6f1b882b8f46?auto=format&fit=crop&w=1200&q=80",
     avgDailyCost: 500,
     avgMealCost: 60,
     avgTransportCost: 20,
