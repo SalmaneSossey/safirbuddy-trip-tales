@@ -48,7 +48,7 @@ export const cities: City[] = [
     tagline: "The Blue Pearl",
     description: "Wander through the dreamy blue-washed streets of Morocco's most photogenic town. Nestled in the Rif Mountains, Chefchaouen offers stunning views, artisan crafts, and a peaceful atmosphere.",
     color: "hsl(207, 89%, 61%)",
-    image: "https://images.unsplash.com/photo-1553244695-ee76f35fc946?auto=format&fit=crop&w=1200&q=80",
+    image: "https://images.unsplash.com/photo-1548018560-c7196e56bc68?auto=format&fit=crop&w=1200&q=80",
     avgDailyCost: 350,
     avgMealCost: 40,
     avgTransportCost: 10,
