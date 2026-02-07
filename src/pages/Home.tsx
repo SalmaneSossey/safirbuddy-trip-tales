@@ -41,7 +41,7 @@ const Home = () => {
       {/* Hero Section */}
       <section className="relative min-h-screen flex items-center justify-center bg-gradient-hero overflow-hidden">
         <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1489749798305-4fea3ae63d43?auto=format&fit=crop&w=1920&q=80')] bg-cover bg-center opacity-20" />
-        
+
         <div className="relative z-10 container mx-auto px-6 py-20 text-center">
           <motion.div
             initial={{ opacity: 0, y: 30 }}
@@ -49,7 +49,7 @@ const Home = () => {
             transition={{ duration: 0.8 }}
             className="mb-12"
           >
-            <MapPin className="w-16 h-16 mx-auto mb-6 text-white" />
+            <img src="/images/logo.png" alt="SafirBuddy" className="w-32 h-32 mx-auto mb-6" />
             <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
               Travel Smart All Over the World
             </h1>

@@ -8,7 +8,7 @@ export const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center gap-2 mb-4">
-              <Compass className="w-8 h-8" />
+              <img src="/images/logo.png" alt="SafirBuddy" className="w-10 h-10" />
               <span className="text-2xl font-bold">SafirBuddy</span>
             </div>
             <p className="text-secondary-foreground/80 mb-4 max-w-md">
